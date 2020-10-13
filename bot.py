@@ -46,8 +46,7 @@ def get_by_country(country):
     return all_cases, deaths, recovered
 
 
-# token = "your token goes here"
-token = '1112620783:AAG60QXNlmmO2OdYFKJU-0zZI-GZVE7iCzM'
+token = "your token goes here"
 messages = {
     "start_text": "با سلام {} خوش امدید ",
     "help_cmd": "اگر به مشکلی در استفاده با منو برخورد کردید لطفا با ما تماش بگیرید و مشکل را بیان کنید❤️ ",
